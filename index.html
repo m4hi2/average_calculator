@@ -16,9 +16,22 @@
     </section>
 
     <section class="container avg">
+      <div class="numbers">
+        <h3>Added Numbers:</h3>
+        <ul id="added_numbers">
+        </ul>
+      </div>
+      <div class="results">
+        <div>
+          <h3>Agerage: <span id="avg_result"></span></h3>
+        </div>
+        <div>
+          <h3>Sum: <span id="sum_result"></span></h3>
+        </div>
+      </div>
       <div class="input">
         <input type="number" id="number" />
-        <button onclick="processNumber()">Submit</button>
+        <button onclick="process()">Submit</button>
       </div>
     </section>
     <script src="scripts/script.js"></script>
