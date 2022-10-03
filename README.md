@@ -9,6 +9,6 @@ Yes, I could write down the numbers and add them  up then average them but why g
 hassle? I looked around online, found a few web apps but was too complicated for my brain. So
 now this exists!
 
-## Bro it looks ugly!
+## Bro, it looks ugly!
 
 I know. Doesn't bother me, if it  bothers you, feel free to open a PR with some styling! Thanks!
